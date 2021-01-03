@@ -1,8 +1,4 @@
-### Hi there 👋
-
-#### I´m Lorena!🐭
-
-and...
+### Hi there! it's Lorena 👋
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m learning web development in the bootcamp of Factoriaf5 digital school
