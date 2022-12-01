@@ -1,9 +1,8 @@
 ### Hi there! it's Lorena 👋
 
 - 🔭 I´m very interested in UX/UI design and Frontend
-- 🌱 I´m growing up as Full Stack developer while I work in a Startup
+- 🌱 I´m growing up as Full Stack developer
 - 👩‍💻 I’m collaborating in open source projects to grow in the development world
-- 🤞🏽 I’m need help with PHP
 - 💬 Ask me about animals and Figma
 
 You can explore my portfolio [here](https://lorena-criado.notion.site/Lorena-Criado-5e7edd40b76a41d7a20d74c71b61a355)!
