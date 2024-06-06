@@ -3,7 +3,7 @@
 - 🌱 I´m growing up as Frontend developer
 - 🔭 I´m very interested in UX/UI design and QA
 - 👩‍💻 I’m collaborating in open source projects to grow in the development world
-- 💬 Ask me about animals and Figma
+- 💬 Ask me about Figma and Agile Methodologies
 
 You can explore my portfolio [here](https://lorenacriado.super.site/)!
 
